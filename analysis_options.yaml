@@ -1,0 +1,20 @@
+include: package:very_good_analysis/analysis_options.yaml
+
+linter:
+  rules:
+    prefer_const_constructors: true
+    public_member_api_docs: false
+    always_use_package_imports: false
+    sort_constructors_first: false
+    one_member_abstracts: false
+    unnecessary_lambdas: false
+    lines_longer_than_80_chars: false
+    always_put_required_named_parameters_first: false
+    prefer_if_elements_to_conditional_expressions: false
+    cascade_invocations: false
+
+analyzer:
+  exclude:
+    - "lib/**.g.dart"
+    - "lib/**.config.dart"
+    - "assets/font_awesome_flutter/"

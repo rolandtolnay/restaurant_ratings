@@ -1,0 +1,11 @@
+{
+  "app_name": "Restaurants",
+  "search": "Search",
+  "error": "There was an issue. Please try again.",
+  "retry": "Retry",
+  "add_new": "+ Add new",
+  "reviews": "Reviews",
+  "name": "Name",
+  "review": "Review",
+  "add_review": "Add review"
+}
